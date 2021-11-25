@@ -2,6 +2,8 @@
 
 ## [RC101: Packaging an analysis](RC101.md)
 
+## [RC102: Introduction to GitHub](RC102.md)
+
 ## Learning goals
 
 1.  Combine data, code, and manuscript in a *research compendium*
