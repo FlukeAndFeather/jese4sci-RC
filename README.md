@@ -1,4 +1,6 @@
-# Research Compendium
+# Research Compendium Track
+
+[## RC101: Packaging an analysis](RC101.md)
 
 ## Learning goals
 
